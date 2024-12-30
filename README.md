@@ -1,4 +1,4 @@
-       ✰ ✰ ✰ 致谢来源及其他未注仓库 ✰ ✰ ✰
+# 致谢来源及其他未注仓库 ✰ ✰ ✰
 
 * [NobyDa](https://github.com/NobyDa)
 
@@ -32,7 +32,7 @@
 
 后缀<code>.conf</code>为配置文件；
 
-<code>.Sgmodule</code>为模块文件；
+<code>.Sgmodule</code>为<code>surge</code>模块文件；
 
 <code>Rule文件夹</code>为分流规则；
 
